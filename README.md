@@ -19,10 +19,15 @@ Descripción general del videojuego: Frogi necesita recolectar bombillos para il
 Esquema de juego:
 
 ●	Opciones de juego: Start, Configuración, Créditos, Selección de Niveles
+
 ●	Resumen de la historia: Frogi, es una ranita ninja, un forajido que ha llegado a una comunidad con la que siente una conexión especial y nota como tienen dificultades en su día a día debido a la falta de iluminación en las noches, debido a ello decide iniciar un viaje a lugares desconocidos del bosque en donde puede encontrarlos.
+
 ●	Modos
+
 ●	Elementos del juego: Bombillos, trampas, terrenos
+
 ●	Niveles: 3
+
 ●	Controles: Flechas de dirección, tecla enter (saltar)
 
 Diseño:
